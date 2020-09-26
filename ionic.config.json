@@ -1,0 +1,7 @@
+{
+  "name": "EcoBappa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
